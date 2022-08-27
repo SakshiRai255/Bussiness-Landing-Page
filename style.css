@@ -167,6 +167,14 @@ body {
   margin-top: 17vh;
   margin-bottom: 5vh;
 }
+.center-heading2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  margin: 30px 0px;
+  font-size: 35px;
+  padding-bottom: 15px;
+  color: rgb(39, 39, 39);
+}
 .heading-img-section1st{
   display: flex;
   flex-direction: row;
@@ -220,7 +228,7 @@ body {
   height: 65vh;
   width: 30vw;
 }
-/* ----------------- */
+/* -------Team-Meat-Section--------- */
 #team-meet-section {
   display: flex;
   flex-direction: row;
