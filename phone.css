@@ -4,7 +4,7 @@
   #navbar {
     border: 0.5px solid #fff;
     align-items: center;
-    width: 99.9%;
+    width: 95%;
     margin-left: 0px;
     box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2);
     background-color: #7383a0;
@@ -29,7 +29,7 @@
     flex-direction: column;
     align-items: center;
     width: 105%;
-    height: 85vh;
+    height: 86vh;
     top: 84px;
     left: -105%;
     transition: all 0.5s;
@@ -266,27 +266,28 @@
     justify-content: center;
     align-items: center;
     width: 95%;
+    margin-left: 0px;
   }
   .img-heading-para {
     width: 50vw;
     text-align: center;
   }
   .img-heading-para h3 {
-    
     font-size: 16px;
     padding: 10px 20px;
-    
   }
   .img-heading-para p {
-    
     font-size: 13px;
     padding: 8px 20px;
-    
   }
   .team-img {
     height: 50vh;
     width: 40vw;
   }
+  
+.bottom-btn {
+  left: 35vw;
+}
 }
 
 /*------------Footer_Section-----------*/
