@@ -72,21 +72,21 @@ body {
   margin-left: 35px;
 }
 .heading-section {
-  width: 39vw;
+  width: 41vw;
 }
 .heading-section h1 {
   font-family: "Roboto", sans-serif;
   font-size: 55px;
   color: #fff;
   padding: 25px 18px;
-  word-break: break-all;
+
 }
 .heading-section p {
   font-family: "Poppins", sans-serif;
   color: rgb(230, 224, 224);
   font-size: 18px;
   padding: 18px 18px;
-  word-break: break-all;
+
 }
 .heading-section input {
   height: 60px;
@@ -204,14 +204,14 @@ body {
   font-size: 35px;
   padding: 15px 20px;
   color: rgb(39, 39, 39);
-  word-break: break-all;
+
 }
 .third-heading p {
   font-family: "Poppins", sans-serif;
   color: rgb(49, 48, 48);
   font-size: 18px;
   padding: 10px 20px;
-  word-break: break-all;
+
 }
 .btn {
   border: none;
@@ -243,7 +243,7 @@ body {
   width: 23vw;
   font-size: 35px;
   padding: 15px 20px;
-  word-break: break-all;
+
 }
 #team-meet-section p {
   font-family: "Poppins", sans-serif;
@@ -251,7 +251,7 @@ body {
   width: 35vw;
   font-size: 18px;
   padding: 15px 20px;
-  word-break: break-all;
+
 }
 
 /*---------------Team-Section------------------*/
@@ -269,15 +269,14 @@ body {
   font-family: "Roboto", sans-serif;
   color: rgb(39, 39, 39);
   font-size: 20px;
-  padding: 15px 20px;
-  word-break: break-all;
+
 }
 .img-heading-para p {
   font-family: "Poppins", sans-serif;
   color: rgb(49, 48, 48);
   font-size: 15px;
   padding: 15px 20px;
-  word-break: break-all;
+
 }
 .team-img {
   height: 50vh;
